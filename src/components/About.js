@@ -1,9 +1,7 @@
 import React from "react"
 import photo from './images/Cascade.jpg';
 
-export default function About() {
-    return (
-
+const About = () => (
         <section id="about" class="about">
 			<div class="about-txt">
 				<h1>about.</h1>
@@ -16,6 +14,6 @@ export default function About() {
 				<img src={photo} alt="Blake Georgeff" class="photo-me" />
 			</div>
 		</section>
-
     );
-}
+
+export default About;
