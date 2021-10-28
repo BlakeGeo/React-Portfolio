@@ -8,13 +8,13 @@ class App extends Component {
 
   render() {
     return (
-        <div>
+          <html>
             <Header />
             <body>
               <Main />
               <Footer />
             </body>
-        </div>
+          </html>
     );
   }
 }
