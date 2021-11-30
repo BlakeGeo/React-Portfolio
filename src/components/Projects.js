@@ -5,6 +5,7 @@ import tech from './images/tech-blog.png';
 import weather from './images/weatherDashboard.png';
 import github from './images/githubRed.png';
 import budget from './images/budgetTracker.png';
+import ingredient from './images/ingredient.png';
 
 
 export default function Portfolio() {
@@ -14,13 +15,13 @@ export default function Portfolio() {
 			<div class="cards">
 				<div class="card">
 					<a href="https://github.com/BlakeGeo">
-						<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/responsibilities-full-stack.jpg" alt="project 3" class="card-image" />
+						<img src={ingredient} alt="Ingredient Meal Man" class="card-image" />
 					</a>
 						<div class="card-info">
-							<h2>PROJECT 3</h2>
+							<h2>Ingredient Meal Man</h2>
 							<div class='tech-repo'>
 								<span class='techs'>React | Mongo | GraphQL</span>
-								<a href="https://github.com/BlakeGeo">
+								<a href="https://github.com/BlakeGeo/Ingredient-Meal-Man">
 									<img src={github} alt='github repo' class='gitRepo'/>
 								</a>
 							</div>

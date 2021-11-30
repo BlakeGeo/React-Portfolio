@@ -1,5 +1,5 @@
 import React from "react";
-import CV from './images/0. CV.pdf';
+import CV from './images/Resume Blake Georgeff.pdf';
 
 export default function Resume() {
     return (
@@ -9,7 +9,7 @@ export default function Resume() {
 				<p>As an aspiring developer I am always looking for new opportunites to expand my knowledge and absorb as much information as possible.</p>
                 <br />
                 <p>
-                    <span>If you are interested you can downlaod my CV <a href={CV}>here</a>.</span>
+                    <span>If you are interested you can downlaod my CV <a class='CVlink' href={CV} >here</a>.</span>
                 </p>
 			</div>            
         </section>

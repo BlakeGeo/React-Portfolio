@@ -231,6 +231,10 @@ header {
 	margin-bottom: 0.5rem;
 }
 
+.CVlink {
+    color: red;
+}
+
 input[type=text], textarea {
 	width: 100%;
 	padding: 1rem;
