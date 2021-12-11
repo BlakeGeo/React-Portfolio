@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.f238a559.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.dc1bd041.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.dc1bd041.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.7cbc285d.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.0a3345d6.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0a3345d6.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.7ecb90bb.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.7ecb90bb.js.map",
     "static/js/2.6dc93f18.chunk.js": "/React-Portfolio/static/js/2.6dc93f18.chunk.js",
     "static/js/2.6dc93f18.chunk.js.map": "/React-Portfolio/static/js/2.6dc93f18.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.f238a559.chunk.css.map": "/React-Portfolio/static/css/main.f238a559.chunk.css.map",
+    "static/css/main.7cbc285d.chunk.css.map": "/React-Portfolio/static/css/main.7cbc285d.chunk.css.map",
     "static/js/2.6dc93f18.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.6dc93f18.chunk.js.LICENSE.txt",
-    "static/media/0. CV.40c5329f.pdf": "/React-Portfolio/static/media/0. CV.40c5329f.pdf",
     "static/media/Avatar.cf12ceb1.png": "/React-Portfolio/static/media/Avatar.cf12ceb1.png",
     "static/media/Cascade.aa7e92ec.jpg": "/React-Portfolio/static/media/Cascade.aa7e92ec.jpg",
+    "static/media/Resume Blake Georgeff.6b0d401a.pdf": "/React-Portfolio/static/media/Resume Blake Georgeff.6b0d401a.pdf",
     "static/media/book-inventory.5c6c93ec.png": "/React-Portfolio/static/media/book-inventory.5c6c93ec.png",
     "static/media/budgetTracker.01f8818e.png": "/React-Portfolio/static/media/budgetTracker.01f8818e.png",
     "static/media/githubRed.327abe2e.png": "/React-Portfolio/static/media/githubRed.327abe2e.png",
+    "static/media/ingredient.7f31921a.png": "/React-Portfolio/static/media/ingredient.7f31921a.png",
     "static/media/linkedinRed.d0041416.png": "/React-Portfolio/static/media/linkedinRed.d0041416.png",
     "static/media/noviceChef.32e58ac7.png": "/React-Portfolio/static/media/noviceChef.32e58ac7.png",
     "static/media/tech-blog.639925da.png": "/React-Portfolio/static/media/tech-blog.639925da.png",
@@ -24,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ecb90bb.js",
     "static/js/2.6dc93f18.chunk.js",
-    "static/css/main.f238a559.chunk.css",
-    "static/js/main.dc1bd041.chunk.js"
+    "static/css/main.7cbc285d.chunk.css",
+    "static/js/main.0a3345d6.chunk.js"
   ]
 }
