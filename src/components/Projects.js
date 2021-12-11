@@ -14,7 +14,7 @@ export default function Portfolio() {
 			<h1>projects.</h1>
 			<div class="cards">
 				<div class="card">
-					<a href="https://github.com/BlakeGeo">
+					<a href="https://ingredient-meal-man.herokuapp.com/">
 						<img src={ingredient} alt="Ingredient Meal Man" class="card-image" />
 					</a>
 						<div class="card-info">
