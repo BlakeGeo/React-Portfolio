@@ -17,14 +17,14 @@ const Home = () => (
               <h1>Blake Georgeff</h1>
               <h2>Full Stack Web Developer</h2>
               <hr />
-              <p> JavaScript | SQL | React | HTML | CSS | GraphQL | Git </p>
+              <p> JavaScript | SQL | React | HTML | CSS | GraphQL | Git | Mongo </p>
             <div className="social-links">
             <a href="https://github.com/BlakeGeo" target="_blank" rel="noopener noreferrer" class="icons">
-			    <img src={github} alt="red github icon" class="icon-img" />
-			</a>
+			        <img src={github} alt="red github icon" class="icon-img" />
+			      </a>
             <a href="https://www.linkedin.com/in/blake-georgeff-754ab2205/" target="_blank" rel="noopener noreferrer" class="icons">
-				<img src={linkedin} alt="red linkedin icon" class="icon-img" />
-			</a>
+				      <img src={linkedin} alt="red linkedin icon" class="icon-img" />
+			      </a>
             </div>
           </div>
         </div>

@@ -18,7 +18,7 @@
    
 ## Description
   
-🔍 A personalised professional portfolio page showcasing about myself and demonstrating my coding skills through projects that I have completed.
+🔍 A personalised professional portfolio page showcasing about me and demonstrating my coding skills through projects that I have completed.
 
 ![image](https://user-images.githubusercontent.com/81725246/139632413-f01392f7-b944-4ac3-8df6-e0834c24baee.png)
   
@@ -34,7 +34,7 @@
 - [Contact](#contact)
 
 ## Installation
-💾 This website portfolio requires no installation and can be viewed by following clicking [here](https://blakegeo.github.io/React-Portfolio/).
+💾 This website portfolio requires no installation and can be viewed by clicking [here](https://blakegeo.github.io/React-Portfolio/).
   
 ## Built With
 
@@ -53,11 +53,11 @@
 
 ## Project Status
 
-> Website is currently live. 
+ Website is currently live. 
 
 ## Future of Project
 
-> I will be updating my portfolio as I complete more projects and learn more coding techniques. 
+ I will be updating my portfolio as I complete more projects and learn more coding techniques. 
   
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
